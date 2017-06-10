@@ -1,0 +1,10 @@
+
+p3.o:     file format elf64-x86-64
+
+
+Disassembly of section .text:
+
+0000000000000000 <.text>:
+   0:	48 c7 c7 a8 b0 67 55 	mov    $0x5567b0a8,%rdi
+   7:	68 da 19 40 00       	pushq  $0x4019da
+   c:	c3                   	retq   
